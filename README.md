@@ -1,0 +1,2 @@
+# ABP-
+El Aprendizaje Basado en Problemas (ABP) es uno de los métodos de enseñanza - aprendizaje que ha tomado más arraigo en las instituciones de educación superior en los últimos años. El camino que toma el proceso de aprendizaje convencional se invierte al trabajar en el ABP. Mientras tradicionalmente primero se expone la información y posteriormente se busca su aplicación en la resolución de un problema, en el caso del ABP primero se presenta el problema, se identifican las necesidades de aprendizaje, se busca la información necesaria y finalmente se regresa al problema.
